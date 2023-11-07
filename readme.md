@@ -7,8 +7,7 @@ A cli app that records audio from mic or your macbook, and stored it in a .wav f
 - Cargo package manager.
 
 ## Steps to run
-- Clone the repo
-  > git clone https://github.com/anubhavitis/mac-recording-app
+- Clone the repo ``` git clone https://github.com/anubhavitis/mac-recording-app ```
 - ```cargo run```
 
 ## Note
