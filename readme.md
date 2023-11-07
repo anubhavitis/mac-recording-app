@@ -1,6 +1,6 @@
 # mac-recorder-app
 
-A cli app that records audio from mic or your macbook, and stored it in a .wav file.
+A cli app that records audio from mic or your macbook, and stored it in a .wav file. 
 
 ## Requirements
 - Rust setup in your local
@@ -11,4 +11,6 @@ A cli app that records audio from mic or your macbook, and stored it in a .wav f
   > git clone https://github.com/anubhavitis/mac-recording-app
 - ```cargo run```
 
-_Ping me if you have any suggestions to add anything more in this._
+## Note
+I am particularly proud of this because I was able to interact with macos api, and input devices apart from a keyboard and mouse, and encode an audio stream of 32 bits float integers into a playable wav files. (I didn't cook everything, external libraries were saviour)
+However, I would love to try more stuff with this. Ping me if you have any suggestions or if you wanna work together on this.
